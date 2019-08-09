@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="@">
+      <change afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TokyoTech-Graduate-Exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed/h22-4.pdf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\Academics\Forex\TokyoTech-Graduate-Exam\All</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tex/sample/sample.tex" />
+        <option value="$PROJECT_DIR$/tex/h13/main.tex" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/TokyoTech-Graduate-Exam.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TokyoTech-Graduate-Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TokyoTech-Graduate-Exam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TokyoTech-Graduate-Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TokyoTech-Graduate-Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="Completed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TokyoTech-Graduate-Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TokyoTech-Graduate-Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TokyoTech-Graduate-Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TokyoTech-Graduate-Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="tex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TokyoTech-Graduate-Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TokyoTech-Graduate-Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="tex" type="462c0819:PsiDirectoryNode" />
+              <item name="h13" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="TexifyConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="LaTeX.main">
+    <configuration name="main bibliography" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify-bibtex>
+        <compiler>BIBTEX</compiler>
+        <compiler-path />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/tex/h13/main.tex</main-file>
+        <aux-dir>$PROJECT_DIR$/auxil</aux-dir>
+      </texify-bibtex>
+      <method v="2" />
+    </configuration>
+    <configuration name="sample bibliography" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify-bibtex>
+        <compiler>BIBTEX</compiler>
+        <compiler-path />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/tex/sample/sample.tex</main-file>
+        <aux-dir>$PROJECT_DIR$/auxil</aux-dir>
+      </texify-bibtex>
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/tex/h13/main.tex</main-file>
+        <aux-dir>true</aux-dir>
+        <out-dir>true</out-dir>
+        <output-format>PDF</output-format>
+        <bib-run-config>BibTeX.main bibliography</bib-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/tex/h13/main.tex</main-file>
+        <aux-dir>true</aux-dir>
+        <out-dir>true</out-dir>
+        <output-format>PDF</output-format>
+        <bib-run-config>BibTeX.main bibliography</bib-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/tex/h13/main.tex</main-file>
+        <aux-dir>true</aux-dir>
+        <out-dir>true</out-dir>
+        <output-format>PDF</output-format>
+        <bib-run-config>BibTeX.main bibliography</bib-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="sample (1)" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/tex/sample/sample.tex</main-file>
+        <aux-dir>true</aux-dir>
+        <out-dir>true</out-dir>
+        <output-format>PDF</output-format>
+        <bib-run-config>BibTeX.sample bibliography</bib-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="sample" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/tex/sample/sample.tex</main-file>
+        <aux-dir>true</aux-dir>
+        <out-dir>true</out-dir>
+        <output-format>PDF</output-format>
+        <bib-run-config>BibTeX.sample bibliography</bib-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="LaTeX.main" />
+        <item itemvalue="LaTeX.sample (1)" />
+        <item itemvalue="LaTeX.sample" />
+        <item itemvalue="LaTeX.main (5)" />
+        <item itemvalue="LaTeX.main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="" />
+      <created>1564757230337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564757230337</updated>
+    </task>
+    <task id="LOCAL-00001" summary="未完や下書きも含めた解答のアップ">
+      <created>1564757470988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564757470988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="微積ニュートン法の解答を追加">
+      <created>1564760089415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564760089415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="@">
+      <created>1564833258058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564833258058</updated>
+    </task>
+    <task id="LOCAL-00004" summary="@">
+      <created>1564848898098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564848898098</updated>
+    </task>
+    <task id="LOCAL-00005" summary="@">
+      <created>1564974526355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564974526355</updated>
+    </task>
+    <task id="LOCAL-00006" summary="@">
+      <created>1565107338262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565107338262</updated>
+    </task>
+    <task id="LOCAL-00007" summary="@">
+      <created>1565358838455</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565358838455</updated>
+    </task>
+    <task id="LOCAL-00008" summary="@">
+      <created>1565363209311</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565363209311</updated>
+    </task>
+    <task id="LOCAL-00009" summary="@">
+      <created>1565368041435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1565368041435</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1880531" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.04112554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="未完や下書きも含めた解答のアップ" />
+    <MESSAGE value="微積ニュートン法の解答を追加" />
+    <MESSAGE value="@" />
+    <option name="LAST_COMMIT_MESSAGE" value="@" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tex/h13/main.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#24#40#2" expanded="true" />
+            <element signature="e#195#199#2" expanded="true" />
+            <element signature="e#202#208#3" expanded="true" />
+            <element signature="e#212#218#3" expanded="true" />
+            <element signature="e#242#245#3" expanded="true" />
+            <element signature="e#272#276#2" expanded="true" />
+            <element signature="e#279#285#3" expanded="true" />
+            <element signature="e#289#295#3" expanded="true" />
+            <element signature="e#330#333#3" expanded="true" />
+            <element signature="e#358#362#2" expanded="true" />
+            <element signature="e#365#371#3" expanded="true" />
+            <element signature="e#375#381#3" expanded="true" />
+            <element signature="e#483#486#3" expanded="true" />
+            <element signature="e#544#548#2" expanded="true" />
+            <element signature="e#551#557#3" expanded="true" />
+            <element signature="e#560#566#3" expanded="true" />
+            <element signature="e#599#603#2" expanded="true" />
+            <element signature="e#606#612#3" expanded="true" />
+            <element signature="e#615#621#3" expanded="true" />
+            <element signature="e#712#716#2" expanded="true" />
+            <element signature="e#719#725#3" expanded="true" />
+            <element signature="e#728#734#3" expanded="true" />
+            <element signature="e#787#790#3" expanded="true" />
+            <element signature="e#948#952#2" expanded="true" />
+            <element signature="e#955#961#3" expanded="true" />
+            <element signature="e#964#970#3" expanded="true" />
+            <element signature="e#1002#1006#2" expanded="true" />
+            <element signature="e#1009#1015#3" expanded="true" />
+            <element signature="e#1018#1024#3" expanded="true" />
+            <element signature="e#1242#1245#3" expanded="true" />
+            <element signature="e#1301#1304#2" expanded="true" />
+            <element signature="e#1335#1340#2" expanded="true" />
+            <element signature="e#1353#1368#2" expanded="true" />
+            <element signature="e#1377#1382#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tex/sample/sample.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1701">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="e#66#84#2" expanded="true" />
+            <element signature="e#608#629#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
