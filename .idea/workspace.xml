@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Completed/h14-8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed/h14-9.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h14-1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h15-2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h15-9.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h16-4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h23-2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h25-5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h25-6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h26-5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h26-6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h27-2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h28-1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All/h28-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h17-6.nb" beforeDir="false" afterPath="$PROJECT_DIR$/All/h17-6.nb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +17,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <dirStrings>
@@ -67,8 +58,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +90,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,13 +380,20 @@
       <option name="project" value="LOCAL" />
       <updated>1565448782926</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="@">
+      <created>1565453429229</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1565453429229</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1880531" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19690265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
