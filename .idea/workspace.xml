@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="" />
+    <list default="true" id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Completed/h20-7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed/h20-9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed/h21-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed/h22-7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed/h22-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -431,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565521072911</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="@">
+      <created>1565531549667</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1565531549667</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
