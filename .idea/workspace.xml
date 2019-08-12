@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Completed/h19-8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed/h20-4.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -476,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565599266081</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="@">
+      <created>1565601176231</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1565601176231</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
