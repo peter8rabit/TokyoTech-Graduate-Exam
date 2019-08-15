@@ -1,8 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="@">
+    <list default="true" id="2b42e176-9ca7-45a4-adff-80bd474cdd17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/H15-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/H15-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/H26-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/H26-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/H28-5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/H28-5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h13-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h13-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h13-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h13-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h13-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h13-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h13-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h13-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h13-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h13-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h13-9(2).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h13-9(2).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h13-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h13-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h14-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h14-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h14-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h14-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h14-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h14-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h14-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h14-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h14-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h14-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h14-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h14-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h15-1.nb" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h15-1.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h15-2.nb" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h15-2.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h15-5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h15-5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h15-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h15-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h15-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h15-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h16-1.nb" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h16-1.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h16-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h16-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h16-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h16-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h16-7.nb" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h16-7.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h16-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h16-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h16-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h16-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h16-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h16-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h17-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h17-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h17-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h17-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h17-6.nb" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h17-6.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h17-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h17-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h17-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h17-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h17-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h17-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-4(3).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-4(3).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h18-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h18-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h19-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h19-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h19-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h19-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h19-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h19-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h19-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h19-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h19-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h19-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h19-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h19-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h20-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h20-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h20-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h20-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h20-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h20-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h20-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h20-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h20-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h20-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h20-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h20-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h20-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h20-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h21-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h21-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h21-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h21-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h21-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h21-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h21-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h21-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h21-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h21-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h22-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h22-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h22-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h22-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h22-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h22-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h23-1.nb" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h23-1.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h23-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h23-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h23-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h23-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h23-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h23-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h23-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h23-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h23-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h23-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h24-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h24-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h24-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h24-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h24-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h24-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h24-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h24-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h25-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h25-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h25-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h25-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h25-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h25-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h26-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h26-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h27-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h27-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h27-6(2).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h27-6(2).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h27-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h27-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h27-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h27-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h27-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h27-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h27-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h27-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h28-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h28-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h28-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h28-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h28-8-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h28-8-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h28-8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h28-8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h28-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h28-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h29-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h29-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h29-3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h29-3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h29-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h29-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h29-5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h29-5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h29-6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h29-6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h29-B.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h29-B.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All/h30-A.nb" beforeDir="false" afterPath="$PROJECT_DIR$/draft/h30-A.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +110,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <dirStrings>
@@ -27,9 +133,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tex/sample/sample.tex" />
         <option value="$PROJECT_DIR$/tex/h13/main.tex" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -45,8 +151,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="-8" />
+    <option name="x" value="-180" />
+    <option name="y" value="-10" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -521,11 +627,19 @@
       <option name="project" value="LOCAL" />
       <updated>1565797251929</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="@">
+      <created>1565877402169</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1565877402169</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19690265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -561,13 +675,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="@" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tex/h13/main.tex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -619,6 +726,13 @@
             <element signature="e#66#84#2" expanded="true" />
             <element signature="e#608#629#2" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
